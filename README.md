@@ -1,10 +1,13 @@
-## Oi eu sou o Amauri Tito,  Software Developer junior !
+## Hi, I'm Amauri Tito, Junior Software Developer!
+
+I'm a junior front-end developer, I'm passionate about the best web and mobile development technologies. Having experience in projects using Javascript, PHP, NodeJS, ReactJS is Bootstrap in web development and backend. I worked in small and medium projects as a Freelancer and personal projects. I am a student at the Bootcamp Inter Frontend Devoloper at Digital Innovation ONE Inc, where I learned practical most modern web and mobile development technologies
 
 <!--SITE EMOJI: https://emojipedia.org/search/?q=bag-->
-🌱 Sou Programador <br>
-👯 Estudando sempre para adquirir conhecimento <br>
-🥅 2021 :| ReactJS | NodeJS | Javascript | Bootstrap <br>
-⚡ Eu Amo Desenvolvimento Web
+<ul>
+  <li>🔭 I am currently studying and looking for my first job opportunity</li> <br>
+  <li>🥅 2022 :| ReactJS | NodeJS | Javascript | Bootstrap</li> <br>
+  <li>⚡ I Love Web Development</li>
+</ul>
 <br>
 <div align="center">
   <a href="https://github.com/AmauriDraken">
