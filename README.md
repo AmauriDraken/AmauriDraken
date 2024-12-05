@@ -5,7 +5,7 @@ I'm a junior front-end developer, I'm passionate about the best web and mobile d
 <!--SITE EMOJI: https://emojipedia.org/search/?q=bag-->
 <ul>
   <li>🔭 I am currently studying and looking for my first job opportunity</li> <br>
-  <li>🥅 2022 :| ReactJS | NodeJS | Javascript | Bootstrap</li> <br>
+  <li>🥅 | ReactJS | NodeJS | Javascript | Bootstrap</li> <br>
   <li>⚡ I Love Web Development</li>
 </ul>
 <br>
